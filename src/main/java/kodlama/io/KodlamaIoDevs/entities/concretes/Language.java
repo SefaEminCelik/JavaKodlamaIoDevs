@@ -20,7 +20,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-@Entity // Sen bir veri tabanı varlığısın veritabanında karşılığın var
+@Entity // Sen bir veri tabanı varlığısın veritabanında karşılığın varasdasdasdas
 @JsonIgnoreProperties({ "hibernateLazyInitializer", "handler", "technologies" })
 public class Language {
 
